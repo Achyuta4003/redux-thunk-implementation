@@ -1,3 +1,20 @@
+# Redux-thunk implemention
+This project is all about how to implement redux thunk in your project.
+
+## dependencies
+react
+redux
+react-redux
+redux-thunk
+redux-devtools-extension
+axios
+
+## For backend JSONPlaceholder api used
+### api url:
+[https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
